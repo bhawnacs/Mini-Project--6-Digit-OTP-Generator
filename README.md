@@ -1,4 +1,4 @@
-# 6-Digit OTP Generator 🔢
+## 6-Digit OTP Generator 🔢
 
 A simple **C# console application** that generates secure 6-digit One-Time Passwords (OTPs).
 
